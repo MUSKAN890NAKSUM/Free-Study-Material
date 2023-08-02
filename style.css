@@ -1,0 +1,19 @@
+body {
+ font-family: sans-serif;    
+}
+nav {
+    background-color: black;
+    padding: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 20px;
+}
+nav a:hover {
+    background-color: red;
+}
+footer {
+    background-color: black;
+    color: azure;
+}
